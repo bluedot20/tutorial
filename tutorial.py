@@ -1,7 +1,6 @@
 
 
+print("This is my git tutorial.")
 
 
 
-
-print("Here is an update")
